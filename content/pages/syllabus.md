@@ -19,7 +19,7 @@ This class has two aims: to introduce students to methods and approaches commonl
 
 ### Required Books
 
-Kenda Mutongi, *Matatu: A History of Popular Transportation in Nairobi* (University of Chicago Press, 2017). ISBN: ‎9780226471396. \[Preview with [Google Books](https://www.google.com/books/edition/Matatu/X5YtDwAAQBAJ?hl=en&gbpv=1)\]
+Kenda Mutongi, [*Matatu: A History of Popular Transportation in Nairobi*](https://bibliopen.org/p/bopen/9780226471426) (University of Chicago Press, 2017). ISBN: ‎9780226471396. 
 
 Eiko Maruko Siniawer, *Waste: Consuming Postwar Japan* (Cornell University Press, 2018). ISBN: ‎9781501725845. \[Preview with [Google Books](https://www.google.com/books/edition/Waste/1kFQDwAAQBAJ?hl=en&gbpv=1)\] 
 
