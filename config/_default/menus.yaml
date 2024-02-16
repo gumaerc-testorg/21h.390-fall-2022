@@ -7,11 +7,15 @@ leftnav:
   name: Calendar
   pageRef: /pages/calendar
   weight: 20
+- identifier: 92147d93-8924-4369-8746-f5e300d1e888
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
 - identifier: a0b11dfa-cb8e-41f4-8ff7-d699e9429a57
   name: Readings
   pageRef: /pages/readings
-  weight: 30
+  weight: 40
 - identifier: 5423a679-f998-4cbb-bcc1-cc48fc86f8c4
   name: Assignments
   pageRef: /pages/assignments
-  weight: 40
+  weight: 50

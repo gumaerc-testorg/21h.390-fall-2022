@@ -7,46 +7,46 @@ uid: 2ca6cecf-6bcb-40c1-8bb8-2d4d41311272
 ---
 ## I. Introduction
 
-### Week One: Introduction: How do historians think?
+### Week 1: Introduction: How Do Historians Think?
 
 Assignment due: Response paper
 
-### Week Two: Writing from an Archive: Race, Slavery, and American Universities
+### Week 2: Writing from an Archive: Race, Slavery, and American Universities
 
 Assignment due: University and Slavery essay (see {{% resource_link "5423a679-f998-4cbb-bcc1-cc48fc86f8c4" "Assignments" %}} section)
 
 ## II. Historical Analysis and Interpretation
 
-### Week Three: What is a good question? Historiographical and empirical contexts
+### Week 3: What is a Good Question? Historiographical and Empirical Contexts
 
 Assignment due: Response paper
 
-### Week Four: How do Historians use Theory?
+### Week 4: How Do Historians Use Theory?
 
 Assignment due: Response paper
 
-### Week Five: NO CLASS
+### Week 5: NO CLASS
 
 Assignments due: 
 
-- Paper topics, bibliography, and preliminary research for the final paper due. These digitized archives might be a good place to start.
+- Paper topics, bibliography, and preliminary research for the final paper due. [“Sources for Digitized Archival Manuscript Collections” (PDF)](https://cpb-us-e2.wpmucdn.com/sites.utdallas.edu/dist/b/911/files/2021/03/Sources-for-Digitized-Archival-Manuscript-Collections.pdf) might be a good place to start.
 - Response paper
 
 ## III. Sources Used by Historians
 
-### Week Six: Writing from a Diary: Midwife’s Tale in Maine, 1785–1812
+### Week 6: Writing from a Diary: Midwife’s Tale in Maine, 1785–1812
 
 Assignment due: Response paper
 
-### Week Seven: Writing from Environment
+### Week 7: Writing from Environment
 
 Assignment due: Response paper
 
-### Week Eight: Doing Conceptual History: Japan
+### Week 8: Doing Conceptual History: Japan
 
 Assignment due: Response paper
 
-### Week Nine: Writing from Oral Sources: Nairobi, Kenya
+### Week 9: Writing from Oral Sources: Nairobi, Kenya
 
 Assignment due: Response paper
 
@@ -56,8 +56,6 @@ Assignment due: Response paper
 
 ### Week 11: NO CLASS: Thanksgiving
 
-### Weeks 12 and 13: Research presentations
+### Weeks 12 and 13: Research Presentations
 
-### Week 14
-
-Assignment due: Final paper
+### Week 14: Research Papers Due
