@@ -13,11 +13,11 @@ Class participation and response papers will be 45% of your total grade.   
 
 ## Universities and Slavery Essay
 
-Please pick one of the universities listed in the [Universities & Slavery](https://libraries.mit.edu/mit-and-slavery/universities-and-slavery/) section on the MIT and Slavery site, and write an essay (750 words) about its involvement in slavery. You MUST read the excerpts below from Wilder’s book before you write the essay.
+Please pick one of the universities listed in the {{% resource_link "58b0a1af-85ea-4e93-8944-0069931cf275" "Universities & Slavery" %}} section on the MIT and Slavery site, and write an essay (750 words) about its involvement in slavery. You MUST read the excerpts below from Wilder’s book before you write the essay.
 
-Craig Steven Wilder, “Prologue” and “Epilogue,” in *Ebony and Ivy: Race, Slavery, and the Troubled History of America’s Universities*, pp. 1–11 and pp. 275–88, Bloomsbury Publishing, 2014. ISBN: ‎9781608194025. \[Preview with [Google Books](https://www.google.com/books/edition/Ebony_and_Ivy/8abHAAAAQBAJ?hl=en&gbpv=1)\]
+Craig Steven Wilder, “Prologue” and “Epilogue,” in *Ebony and Ivy: Race, Slavery, and the Troubled History of America’s Universities*, pp. 1–11 and pp. 275–88, Bloomsbury Publishing, 2014. ISBN: ‎9781608194025. \[Preview with {{% resource_link "cc6d6089-b2cb-4f4b-ad32-5674041eb75e" "Google Books" %}}\]
 
-Please browse this article: Mike Featherstone, “[Archive](https://journals.sagepub.com/doi/abs/10.1177/0263276406023002106).” *Theory, Culture & Society* 23, no. 2–3 (2006): 591–96.  
+Please browse this article: Mike Featherstone, “{{% resource_link "88a1e68f-f694-4104-a7e7-67c6ed650ad7" "Archive" %}}.” *Theory, Culture & Society* 23, no. 2–3 (2006): 591–96.  
 
 The essay will be due during week 2.
 
