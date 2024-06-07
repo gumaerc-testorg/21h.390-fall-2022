@@ -46,10 +46,10 @@ None
 
 ### Requirements Satisfied
 
-- Required course for the undergraduate major or minor in {{% resource_link "48e879ef-229d-4021-b591-f648fce792a9" "History" %}}
-- Required course for the PhD program in {{% resource_link "e77f0f50-3128-429b-ad39-bf3e19fff967" "History, Anthropology, and Science, Technology, and Society (HASTS)" %}}
-- General Institute Requirement ({{% resource_link "62ac7a7f-3a6d-47e4-bbcd-212f318adcd1" "GIR" %}}): Communication Intensive in the Major ({{% resource_link "79b4e410-ff33-4087-9da1-588a1a6d9af8" "CI-M" %}})
-- General Institute Requirement ({{% resource_link "62ac7a7f-3a6d-47e4-bbcd-212f318adcd1" "GIR" %}}): Humanities and Social Sciences - Humanities ({{% resource_link "cba1e18d-167a-46ce-a35d-be27351671ff" "HASS-H" %}}) 
+- Required course for the undergraduate major or minor in [History](https://history.mit.edu/academics/undergraduate-studies/)
+- Required course for the PhD program in [History, Anthropology, and Science, Technology, and Society (HASTS)](https://hasts.mit.edu/program/)
+- General Institute Requirement ([GIR](https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements)): Communication Intensive in the Major ([CI-M](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects/subject))
+- General Institute Requirement ([GIR](https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements)): Humanities and Social Sciences - Humanities ([HASS-H](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement)) 
 
 ### Offered
 
@@ -67,7 +67,7 @@ About two-thirds graduate students, one-third undergraduates
 
 ### Breakdown by Major
 
-Most students were pursuing degrees or concentrations in history or in the {{% resource_link "6079e592-b7ff-4b20-977d-ba74e27d1577" "HASTS" %}} program; the remainder were studying architecture or urban studies and planning.
+Most students were pursuing degrees or concentrations in history or in the [HASTS](https://hasts.mit.edu/) program; the remainder were studying architecture or urban studies and planning.
 
 ## How Student Time Was Spent
 
