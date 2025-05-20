@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /ol-ocw-studio-app/courses/21h-390-theories-and-methods-in-the-study-of-history-fall-2022/mit21h_390_finalpaper_studentexample02.pdf
+file: courses/theories-and-methods-in-the-study-of-history/mit21h_390_finalpaper_studentexample02.pdf
 file_size: 576529
 file_type: application/pdf
 image_metadata:
