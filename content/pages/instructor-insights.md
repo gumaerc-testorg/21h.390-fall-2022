@@ -46,10 +46,10 @@ None
 
 ### Requirements Satisfied
 
-- Required course for the undergraduate major or minor in [History](https://history.mit.edu/academics/undergraduate-studies/)
-- Required course for the PhD program in [History, Anthropology, and Science, Technology, and Society (HASTS)](https://hasts.mit.edu/program/)
-- General Institute Requirement ([GIR](https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements)): Communication Intensive in the Major ([CI-M](https://registrar.mit.edu/registration-academics/academic-requirements/communication-requirement/ci-m-subjects/subject))
-- General Institute Requirement ([GIR](https://registrar.mit.edu/registration-academics/academic-requirements/general-institute-requirements)): Humanities and Social Sciences - Humanities ([HASS-H](https://registrar.mit.edu/registration-academics/academic-requirements/hass-requirement)) 
+- Required course for the undergraduate major or minor in {{% resource_link "1a4d177e-b97c-4bba-9def-e7e94dc53562" "History" %}}
+- Required course for the PhD program in {{% resource_link "92e8370f-350a-47b7-907a-803a2f6c29a9" "History, Anthropology, and Science, Technology, and Society (HASTS)" %}}
+- General Institute Requirement ({{% resource_link "a4e16199-cecd-4154-845c-4081ac9cffa5" "GIR" %}}): Communication Intensive in the Major ({{% resource_link "89c55a15-e877-4b63-b911-20923037f8c9" "CI-M" %}})
+- General Institute Requirement ({{% resource_link "a4e16199-cecd-4154-845c-4081ac9cffa5" "GIR" %}}): Humanities and Social Sciences - Humanities ({{% resource_link "b3f2d9b4-a0e7-4728-9229-b4d6cb4eefe9" "HASS-H" %}}) 
 
 ### Offered
 
@@ -67,7 +67,7 @@ About two-thirds graduate students, one-third undergraduates
 
 ### Breakdown by Major
 
-Most students were pursuing degrees or concentrations in history or in the [HASTS](https://hasts.mit.edu/) program; the remainder were studying architecture or urban studies and planning.
+Most students were pursuing degrees or concentrations in history or in the {{% resource_link "6a810c82-b59c-4dac-b31e-f5717209c74f" "HASTS" %}} program; the remainder were studying architecture or urban studies and planning.
 
 ## How Student Time Was Spent
 
